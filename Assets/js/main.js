@@ -8,11 +8,6 @@ const form = document.getElementById("form"),
   password = document.querySelector(".password"),
   button = document.querySelector(".loged");
 
-let boxes = true;
-
-if (boxes) {
-}
-
 const unvalid = (e) => {
   e.target.style.borderColor = "#fa3f67";
   form.classList.add("unvalid");
