@@ -1,6 +1,6 @@
 // manual database
 
-const dbEmail = "iamhridoyhaque@gmail.com";
+const dbEmail = "example@gmail.com";
 const dbPass = "demoPassword";
 
 const form = document.getElementById("form"),
