@@ -84,6 +84,7 @@ form button:hover {
 }
 
 form.unvalid button {
+  cursor: default;
   background-color: #fa3f67;
 }
 
